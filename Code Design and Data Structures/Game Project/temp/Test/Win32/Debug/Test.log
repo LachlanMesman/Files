@@ -1,0 +1,4 @@
+﻿  TestApp.cpp
+c:\users\s173069\desktop\game project\testapp.cpp(32): warning C4101: 'i': unreferenced local variable
+  Test.vcxproj -> C:\Users\s173069\Desktop\Game Project\temp\Test\Win32\Debug\Test.exe
+  Test.vcxproj -> C:\Users\s173069\Desktop\Game Project\temp\Test\Win32\Debug\Test.pdb (Full PDB)
